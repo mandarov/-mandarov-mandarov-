@@ -1,4 +1,4 @@
 # -mandarov-mandarov-
-<h1 align="center">Мандаров Артем target="</a> 
+<h1 align="center">Мандаров Артем target=</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Студент из 🇷🇺</h3>
+<h3 align="center">Студент из Russia 🇷🇺</h3>
